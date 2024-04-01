@@ -6,4 +6,5 @@ A collection of coding challenges from the [Coding Challenges](https://codingcha
 
 ## Challenges:
 
-#### [1. Building WC](https://github.com/oluwaferanmiadetunji/coding-challenges):
+#### [1. Building WC](https://github.com/oluwaferanmiadetunji/coding-challenges/tree/main/building-wc)
+This challenge is to build my own version of the Unix command line tool wc
